@@ -42,7 +42,7 @@
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="[https://www.linkedin.com/in/qurssam-fatima-076475320/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3Bw1YvPSxtQkKTYypL%2FyEalg%3D%3D]" width="220" style="border-radius: 15px;" alt="profile"/>
+<img src="[https://avatars.githubusercontent.com/u/267998715?s=400&u=6df3cd060e277adbe293721129418bfa2cf1994e&v=4]" width="220" style="border-radius: 15px;" alt="profile"/>
 
 </td>
 </tr>
