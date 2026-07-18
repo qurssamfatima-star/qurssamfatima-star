@@ -42,7 +42,7 @@
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="[https://avatars.githubusercontent.com/u/267998715?s=400&u=6df3cd060e277adbe293721129418bfa2cf1994e&v=4]" width="220" style="border-radius: 15px;" alt="profile"/>
+<img src="[https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/profile.png]" width="220" style="border-radius: 15px;" alt="profile"/>
 
 </td>
 </tr>
