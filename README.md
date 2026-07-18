@@ -6,8 +6,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/light.png">
   <img alt="Banner" src="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/light.png" width="100%">
 </picture>
-<!-- ==================== TITLE ==================== -->
-# Hey there, I'm Qurssam Fatima 👋
+
 
 <!-- ==================== TYPING SVG ==================== -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=EF93C4&center=true&vCenter=true&width=600&lines=AI+%26+ML+Enthusiast;BS+Artificial+Intelligence+Student;Video+Editor+%7C+Photographer;Content+Creator)](https://git.io/typing-svg)
