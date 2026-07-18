@@ -2,9 +2,9 @@
 
 <!-- ==================== BANNER ==================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/light.svg">
-  <img alt="Banner" src="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/light.png">
+  <img alt="Banner" src="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/light.png" width="100%">
 </picture>
 <!-- ==================== TITLE ==================== -->
 # Hey there, I'm Qurssam Fatima 👋
