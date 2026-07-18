@@ -2,9 +2,8 @@
 
 <!-- ==================== BANNER ==================== -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[DARK_BANNER_URL]">
-  <source media="(prefers-color-scheme: light)" srcset="[LIGHT_BANNER_URL]">
-  <img alt="Banner" src="[LIGHT_BANNER_URL]" width="100%">
+   <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.png">
+   <img alt="Logo for Qurssam fatima" src="art/header-light.png">
 </picture>
 
 <!-- ==================== TITLE ==================== -->
