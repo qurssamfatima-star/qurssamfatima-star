@@ -35,7 +35,6 @@
 - 🎯 Goal: **Land an AI/ML internship & grow as an ML engineer**
 - 📸 Interested in **Photography, Video Editing & UGC Content Creation**
 - 💌 Reach me at **qurssamfatimaabbasi@gmail.com**
-- ⚡ Fun fact: **[YOUR_FUN_FACT]**
 
 </td>
 <td width="35%" valign="top" align="center">
