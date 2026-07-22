@@ -39,7 +39,7 @@
 </td>
 <td width="35%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/profile.png" width="220" style="border-radius: 15px;" alt="profile"/>
+<img src="https://raw.githubusercontent.com/qurssamfatima-star/qurssamfatima-star/main/pic.png" width="220" style="border-radius: 15px;" alt="profile"/>
 
 </td>
 </tr>
