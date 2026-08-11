@@ -29,7 +29,7 @@
 <tr>
 <td width="65%" valign="top">
 
-- 🎓 BS Artificial Intelligence student at Islamia University of Bahawalpur (IUB) 
+- 🎓 BS Artificial Intelligence student at Islamia University of Bahawalpur
 - 💻 Currently working on **AI/ML projects & GitHub profile polishing**
 - 🌱 Learning **MLOps (XGBoost, MLflow, Airflow, FastAPI, Docker)**
 - 🎯 Goal: **Land an AI/ML internship & grow as an ML engineer**
